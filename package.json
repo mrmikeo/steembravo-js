@@ -1,7 +1,7 @@
 {
-  "name": "steem",
+  "name": "steembravo",
   "version": "0.6.4",
-  "description": "Steem.js the JavaScript API for Steem blockchain",
+  "description": "Steembravo.js the JavaScript API for Bravocoin blockchain",
   "main": "lib/index.js",
   "scripts": {
     "test": "eslint --quiet src test; mocha -t 20000 --require babel-polyfill --require babel-register",
@@ -21,10 +21,8 @@
     "url": "git+https://github.com/steemit/steem-js.git"
   },
   "keywords": [
-    "steem",
-    "steemit",
-    "blockchain",
-    "steemjs"
+    "bravocoin",
+    "blockchain"
   ],
   "author": "Fabien (https://github.com/bonustrack)",
   "license": "MIT",
