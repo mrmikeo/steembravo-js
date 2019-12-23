@@ -51,7 +51,7 @@
     "mysql": "^2.16.0",
     "postinstall-build": "^5.0.1",
     "secure-random": "^1.1.1",
-    "ws": "^3.0.0"
+    "ws": "^7.2.1"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
